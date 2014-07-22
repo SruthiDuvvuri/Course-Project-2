@@ -6,7 +6,7 @@ Have total emissions from PM2.5 decreased in the United States from 1999 to 2008
 Solution
 ========
 
-Load Required Libraries
+## Load Required Libraries
 
     library(plyr)
     library(ggplot2)
